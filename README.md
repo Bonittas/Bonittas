@@ -1,4 +1,4 @@
-Biftu Shibbire
+Hello there, I am Biftu Shibbire.
 
 About Me
 Software Engineer with a focus on Artificial Intelligence technologies.
