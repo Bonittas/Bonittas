@@ -14,6 +14,3 @@ Skills
 - Areas: AI, Machine Learning, Game Development. Webiste Development
 
 Portfolio - https://biftush.onrender.com/
-
-![GitHub followers](https://img.shields.io/github/followers/Bonittas?style=social)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bonittas&show_icons=true&hide_title=true)
