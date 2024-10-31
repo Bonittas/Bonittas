@@ -14,3 +14,6 @@ Skills
 - Areas: AI, Machine Learning, Game Development. Webiste Development
 
 Portfolio - https://biftush.onrender.com/
+
+![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
+![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)
