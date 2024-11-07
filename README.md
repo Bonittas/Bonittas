@@ -15,12 +15,7 @@ Software Engineer with a focus on Artificial Intelligence technologies.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt ="nodejs" width ="25"/> 
   <h2>&nbsp;</h2>
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=Bonittas&show_icons=true&theme=radical&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bonittas&langs_count=8&theme=radical&layout=compact" />
-</a>
+
 <h2>&nbsp;</h2>
 
 </div>
