@@ -23,9 +23,6 @@ Software Engineer with a focus on Artificial Intelligence technologies.
 </a>
 <h2>&nbsp;</h2>
 
-[<img src='https://img.icons8.com/color/48/000000/github--v1.png' alt='github' height='25'>](https://github.com/Bonittas)
-[<img src='https://img.icons8.com/fluency/48/000000/instagram-new.png' alt='instagram' height='25'>](https://www.instagram.com/biftu_38/) 
-
 </div>
 Experience
 - Full Stack Developer** at Asewa Technologies - https://www.ashewatechnology.com/
